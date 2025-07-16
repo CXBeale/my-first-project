@@ -6,3 +6,8 @@ body {
 h2 {
     color: orangered;
 }
+
+p {
+    color: darkblue;
+    font-weight: bold;
+}
