@@ -11,3 +11,7 @@ p {
     color: darkblue;
     font-weight: bold;
 }
+
+.text-center {
+    text-align: center;
+}
